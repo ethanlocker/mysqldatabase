@@ -1,0 +1,3 @@
+SELECT * FROM restaurants;
+SELECT * FROM ImportantInfo WHERE name='bob';
+SELECT * FROM cities WHERE city='munich';
