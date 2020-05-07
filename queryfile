@@ -15,7 +15,7 @@ SET time_zone = "+00:00";
 --
 
 -- --------------------------------------------------------
-/* this is a commen, remove slash asterisk to use query
+/* this is a comment, remove slash asterisk to use query
 
 SELECT * FROM restaurants;
 SELECT * FROM ImportantInfo WHERE name='bob';
